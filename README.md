@@ -2,7 +2,7 @@
 
 ## Description
 
-Created to organize all my notes on HTML, CSS, Git and JavaScript all in one easily accessible place.
+Created this web page to organize my notes on HTML, CSS, Git and JavaScript in to one easily accessible place.
 
 ## Installation
 
